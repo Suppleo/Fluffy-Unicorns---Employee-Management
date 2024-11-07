@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Suppleo/Fluffy-Unicorns---Web-Week-4---Employee-Management
