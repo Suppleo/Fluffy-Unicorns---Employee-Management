@@ -3,7 +3,9 @@ const express = require("express");
 const cors = require("cors");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcrypt");
-const knex = require("knex")(require("./knexfile").development);
+const knex = require("knex")(
+  require("./knexfile")[process.env.NODE_ENV || "development"]
+);
 const authenticateToken = require("./middleware/auth");
 
 const app = express();
