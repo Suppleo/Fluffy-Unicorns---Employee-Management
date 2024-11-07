@@ -14,6 +14,10 @@ Tên nhóm: Fluffy Unicorns
 2. Hoàng Anh - 2201700173
 3. Lê Đức Long - 2201700192
 
+## Demo dự án
+
+Một app React đơn giản có tích hợp gọi API từ server với các endpoints đã tạo, bạn có thể truy cập tại đây: [https://suppleo.github.io/Fluffy-Unicorns---Employee-Management/](https://suppleo.github.io/Fluffy-Unicorns---Employee-Management/)
+
 ## Nội dung bài tập
 
 ### Tuần 4 - Basic CRUD endpoints
