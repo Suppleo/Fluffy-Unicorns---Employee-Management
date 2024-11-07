@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Fluffy-Unicorns---Employee-Management/static/css/main.e6c13ad2.css",
-    "main.js": "/Fluffy-Unicorns---Employee-Management/static/js/main.ad73e3ab.js",
+    "main.js": "/Fluffy-Unicorns---Employee-Management/static/js/main.4da90aae.js",
     "static/js/453.8ab44547.chunk.js": "/Fluffy-Unicorns---Employee-Management/static/js/453.8ab44547.chunk.js",
     "index.html": "/Fluffy-Unicorns---Employee-Management/index.html",
     "main.e6c13ad2.css.map": "/Fluffy-Unicorns---Employee-Management/static/css/main.e6c13ad2.css.map",
-    "main.ad73e3ab.js.map": "/Fluffy-Unicorns---Employee-Management/static/js/main.ad73e3ab.js.map",
+    "main.4da90aae.js.map": "/Fluffy-Unicorns---Employee-Management/static/js/main.4da90aae.js.map",
     "453.8ab44547.chunk.js.map": "/Fluffy-Unicorns---Employee-Management/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ad73e3ab.js"
+    "static/js/main.4da90aae.js"
   ]
 }
