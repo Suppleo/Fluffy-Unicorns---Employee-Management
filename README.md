@@ -1,7 +1,7 @@
 # Fluffy Unicorns - Week 4 - Employee Management System
 
 Bài tập tuần 4 môn Công nghệ phát triển phần mềm web  
-Giảng viên: ThS. Trần Duy Quang  
+Giảng viên: Trần Duy Quang  
 Trường Đại học Quản lý và Công nghệ Thành phố Hồ Chí Minh (UMT)
 
 ## Thông tin nhóm
