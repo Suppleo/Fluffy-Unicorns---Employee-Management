@@ -18,6 +18,8 @@ Tên nhóm: Fluffy Unicorns
 
 Một app React đơn giản có tích hợp gọi API từ server với các endpoints đã tạo, bạn có thể truy cập tại đây: [https://suppleo.github.io/Fluffy-Unicorns---Employee-Management/](https://suppleo.github.io/Fluffy-Unicorns---Employee-Management/)
 
+Tài khoản và mật khẩu để đăng nhập là: admin - admin. *Lưu ý:* Đôi khi server sẽ hơi chậm, nên bạn cần đợi một chút để server trả data.
+
 ## Nội dung bài tập
 
 ### Tuần 4 - Basic CRUD endpoints
